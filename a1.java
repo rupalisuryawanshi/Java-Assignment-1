@@ -9,10 +9,10 @@ class userprofile
     String name,branch,college;
     int rollno,userid;
     float percentage;
-    name = "Sopan Jadhav";
+    name = "Rupali Suryawanshi";
     branch = "CSE";
     college = "ICEEM";
-    rollno = 21;
+    rollno = 50;
     percentage = 85.60f;
     userid = 5412855;
     System.out.println("Name:-"+"\t"+name);
